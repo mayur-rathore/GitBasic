@@ -2,4 +2,6 @@ Hi,
 
 please find list of all contacts here.
 
-please modify contacts.
+please modify contacts list.
+
+we are doing changes for merging here 
